@@ -3,6 +3,7 @@
 ### Bitmap Files
 If you need a bitmap file to test with you can download one of the files above or at:
 https://github.com/bnkpst/bmpchat/blob/master/flower.bmp
+
 https://github.com/bnkpst/bmpchat/blob/master/goat.bmp
 
 ### Compiling
