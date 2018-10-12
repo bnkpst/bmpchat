@@ -2,6 +2,7 @@
 
 ### Bitmap Files
 If you need a bitmap file to test with you can download one of the files above.
+https://github.com/bnkpst/bmpchat/blob/master/flower.bmp
 
 ### Compiling
 Use the supplied makefile by by typing ```make``` in the terminal.
