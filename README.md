@@ -1,4 +1,4 @@
-# bmpchat
+# README
 
 ### Bitmap Files
 If you need a bitmap file to test with you can download one of the files above.
