@@ -36,12 +36,12 @@ Follow the onscreen instructions providing a bitmap filename ane type in a messa
 
 You will be shown your encrypted message on screen and the name of the output file.
 The output filename will be appeneded with an extension:
-### _enc
+#### _enc
 
 ### Read a Message
 
-After logging in press "2" to decrypt a bitmap message you have recieved. It will most likely be a file with:
-### _enc
-on the end.
+After logging in press "2" to decrypt a bitmap message you have recieved. It will most likely be a file with extension: 
+#### _enc
+
 Supply the name of the file and the decrypted message will be displayed on the screen.
 
